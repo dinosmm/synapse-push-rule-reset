@@ -15,4 +15,6 @@ How to run:
 - Edit the .env file to add your Synapse server URL and your account API Access Token
 - Make the script file executable if needed, and run it
 
+The script was written with the help of ChatGPT 5.2.
+
 Provided as-is without any guarantee, use at your own risk.
